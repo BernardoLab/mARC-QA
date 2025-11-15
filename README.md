@@ -91,5 +91,14 @@ Kim, J., Podlasek, A., Shidara, K. et al. Limitations of large language models i
 
 **BibTeX:**
 ```bibtex
-
+@article{kim2025limitations,
+  title={Limitations of large language models in clinical problem-solving arising from inflexible reasoning},
+  author={Kim, Jonathan and Podlasek, Anna and Shidara, Kie and Liu, Feng and Alaa, Ahmed and Bernardo, Danilo},
+  journal={Scientific Reports},
+  volume={15},
+  number={1},
+  pages={39426},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
 ```
