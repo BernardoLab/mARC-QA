@@ -1,4 +1,4 @@
-# Medical Abstraction and Reasoning Corpus (MedARC-QA)
+# Medical Abstraction and Reasoning Corpus (mARC-QA)
 
 [**📖 Paper**](https://www.nature.com/articles/s41598-025-22940-0) |
 
